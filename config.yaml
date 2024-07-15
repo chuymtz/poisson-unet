@@ -1,0 +1,5 @@
+simulation:
+  NUM_POINTS: 32
+  NUM_SAMPLES: 1000
+  DOMAIN_EXTENT: 5.0
+  DATA_PATH: data/burgers_data_R10.mat
